@@ -10,7 +10,7 @@
         в порядке возрастания(убывания) минимальных элементов строк матрицы. Разработать unit-тесты (NUnit фреймворк).
 
 
-2) [Решение](https://github.com/Ronimeister/NET.S.2018.Kanunnikov.09)
+2) [Решение(комментарии будут добавлены чуть позже)](https://github.com/Ronimeister/NET.S.2018.Kanunnikov.09)
 
    [Тесты](https://github.com/Ronimeister/NET.S.2018.Kanunnikov.09/tree/master/ConsoleBankTests)
    
