@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace ArrayExtensions
@@ -72,6 +72,11 @@ namespace ArrayExtensions
             if (array is null)
             {
                 throw new ArgumentNullException($"{nameof(array)} can't be equal to null!");
+            }
+
+            if (array.Length == 0)
+            {
+                throw new ArgumentException($"{nameof(array)} can't be empty!");
             }
 
             PrintArray(array);
